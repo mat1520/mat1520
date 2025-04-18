@@ -145,6 +145,45 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
 
 ---
 
+### 🎓 Educación y Formación Técnica
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Universidad_Internacional_del_Ecuador-FF0000?style=for-the-badge&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Ingeniería_en_Sistemas-000000?style=for-the-badge&logoColor=white" />
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Fundamentos Técnicos</h3>
+      <img src="https://img.shields.io/badge/Lógica_de_Programación-FF0000?style=for-the-badge&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Arquitectura_de_Computadoras-FF0000?style=for-the-badge&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Sistemas_Operativos-FF0000?style=for-the-badge&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/UNIX_Systems-FF0000?style=for-the-badge&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🔧 Especialización</h3>
+      <img src="https://img.shields.io/badge/Programación_Estructurada-FF0000?style=for-the-badge&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Redes_de_Datos-FF0000?style=for-the-badge&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Bases_de_Datos-FF0000?style=for-the-badge&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Sistemas_Tecnológicos-FF0000?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <i>Formación enfocada en seguridad informática, desarrollo de sistemas y redes</i>
+</div>
+
+---
+
 ### 📚 Currently Learning
 
 <div align="center">
