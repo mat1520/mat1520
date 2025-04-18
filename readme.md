@@ -44,16 +44,36 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
   <img src="https://img.shields.io/badge/Network-Security-FF0000?style=for-the-badge&logo=network&logoColor=white" />
 </div>
 
-#### 🔐 Security Tools & Frameworks
-- **Network Analysis**
-  - <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-FF0000?style=flat-square&logo=nmap&logoColor=white" />
-  - <img src="https://img.shields.io/badge/Burp_Suite-FF5722?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-FF0000?style=flat-square&logo=metasploit&logoColor=white" />
-
-- **Password Analysis**
-  - <img src="https://img.shields.io/badge/John_the_Ripper-FF0000?style=flat-square&logo=john&logoColor=white" /> <img src="https://img.shields.io/badge/Hashcat-FF0000?style=flat-square&logo=hashcat&logoColor=white" />
-
-- **Security Frameworks**
-  - <img src="https://img.shields.io/badge/OWASP-FF0000?style=flat-square&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/CVE-FF0000?style=flat-square&logo=cve&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔍 Network Analysis</h3>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🔑 Password Analysis</h3>
+      <img src="https://img.shields.io/badge/John_the_Ripper-FF0000?style=for-the-badge&logo=john&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&logo=hashcat&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hydra&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>🛡️ Security Frameworks</h3>
+      <img src="https://img.shields.io/badge/OWASP-FF0000?style=for-the-badge&logo=owasp&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/CVE-FF0000?style=for-the-badge&logo=cve&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,14 +84,30 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
   <img src="https://img.shields.io/badge/Full_Stack-FF0000?style=for-the-badge&logo=fullstack&logoColor=white" />
 </div>
 
-#### 💻 Tech Stack
-- **Frontend**
-  - <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-
-- **Backend**
-  - <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  - <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <br/>
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,22 +118,49 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
   <img src="https://img.shields.io/badge/DevOps-FF0000?style=for-the-badge&logo=devops&logoColor=white" />
 </div>
 
-#### 🚀 AWS Services
-- **Compute & Storage**
-  - <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" /> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-  - <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
-
-- **Security & Monitoring**
-  - <img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=aws-iam&logoColor=white" /> <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazon-cloudwatch&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Compute & Storage</h3>
+      <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🔒 Security & Monitoring</h3>
+      <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=aws-iam&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/WAF-FF9900?style=for-the-badge&logo=aws-waf&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Shield-FF9900?style=for-the-badge&logo=aws-shield&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📚 Currently Learning
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_Security-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain_Security-FF0000?style=for-the-badge&logo=blockchain&logoColor=white" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Advanced_Security-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Blockchain_Security-FF0000?style=for-the-badge&logo=blockchain&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
