@@ -28,34 +28,38 @@
 ### 🏆 Certifications & Achievements
 
 <div align="center">
+
 <table>
   <tr>
-    <td align="center" width="180">
-      <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/twitter_thumb_201604_image.png" width="80" alt="Python Essentials 1"/><br>
+    <td align="center" width="210" style="padding: 18px;">
+      <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/twitter_thumb_201604_image.png" width="80" alt="Python Essentials 1"/><br><br>
       <b>Python Essentials 1</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 11/21/24</span>
     </td>
-    <td align="center" width="180">
-      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2ac901d8-a935-48c4-b29a-810c9cf1bf8d.png" width="80" alt="Greenhouse Gas Accounting for IT"/><br>
+    <td align="center" width="210" style="padding: 18px;">
+      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2ac901d8-a935-48c4-b29a-810c9cf1bf8d.png" width="80" alt="Greenhouse Gas Accounting for IT"/><br><br>
       <b>Greenhouse Gas Accounting for IT</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 5/3/25</span>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" width="90" alt="CompTIA Security+"/><br>
+  </tr>
+  <tr>
+    <td align="center" width="210" style="padding: 18px;">
+      <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" width="90" alt="CompTIA Security+"/><br><br>
       <b>CompTIA Security+</b><br>
       <span style="color:#FF0000;font-weight:bold;">In Progress</span><br>
       <span style="font-size:0.95em;">Expected 2026</span>
     </td>
-    <td align="center" width="180">
-      <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" width="90" alt="AWS Certified Cloud Practitioner"/><br>
+    <td align="center" width="210" style="padding: 18px;">
+      <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" width="90" alt="AWS Certified Cloud Practitioner"/><br><br>
       <b>AWS Cloud Practitioner</b><br>
       <span style="color:#FF9900;font-weight:bold;">In Progress</span><br>
       <span style="font-size:0.95em;">Expected 2026</span>
     </td>
   </tr>
 </table>
+
 </div>
 
 ### 🏅 Certificaciones Digitales
