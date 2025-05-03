@@ -32,13 +32,19 @@
 <table>
   <tr>
     <td align="center" width="210" style="padding: 18px;">
-      <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/twitter_thumb_201604_image.png" width="80" alt="Python Essentials 1"/><br><br>
+      <div style="display:inline-block;">
+        <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/twitter_thumb_201604_image.png" width="70" alt="Python Essentials 1"/>
+      </div>
+      <br><br>
       <b>Python Essentials 1</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 11/21/24</span>
     </td>
     <td align="center" width="210" style="padding: 18px;">
-      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2ac901d8-a935-48c4-b29a-810c9cf1bf8d.png" width="80" alt="Greenhouse Gas Accounting for IT"/><br><br>
+      <div style="display:inline-block;">
+        <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2ac901d8-a935-48c4-b29a-810c9cf1bf8d.png" width="70" alt="Greenhouse Gas Accounting for IT"/>
+      </div>
+      <br><br>
       <b>Greenhouse Gas Accounting for IT</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 5/3/25</span>
@@ -46,13 +52,15 @@
   </tr>
   <tr>
     <td align="center" width="210" style="padding: 18px;">
-      <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" width="90" alt="CompTIA Security+"/><br><br>
+      <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" height="40" alt="CompTIA Security+"/>
+      <br><br>
       <b>CompTIA Security+</b><br>
       <span style="color:#FF0000;font-weight:bold;">In Progress</span><br>
       <span style="font-size:0.95em;">Expected 2026</span>
     </td>
     <td align="center" width="210" style="padding: 18px;">
-      <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" width="90" alt="AWS Certified Cloud Practitioner"/><br><br>
+      <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40" alt="AWS Certified Cloud Practitioner"/>
+      <br><br>
       <b>AWS Cloud Practitioner</b><br>
       <span style="color:#FF9900;font-weight:bold;">In Progress</span><br>
       <span style="font-size:0.95em;">Expected 2026</span>
@@ -320,6 +328,12 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
     </tr>
   </table>
 </div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/mat1520/mat1520/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
