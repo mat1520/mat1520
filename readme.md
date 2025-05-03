@@ -31,13 +31,13 @@
 <table>
   <tr>
     <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/mat1520/mat1520/master/python-essentials-1.1.png" width="80" alt="Python Essentials 1"/><br>
+      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2ac901d8-a935-48c4-b29a-810c9cf1bf8d.png" width="80" alt="Python Essentials 1"/><br>
       <b>Python Essentials 1</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 11/21/24</span>
     </td>
     <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/mat1520/mat1520/master/introduction-to-greenhouse-gas-accounting-for-it.png" width="80" alt="Greenhouse Gas Accounting for IT"/><br>
+      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2ac901d8-a935-48c4-b29a-810c9cf1bf8d.png" width="80" alt="Greenhouse Gas Accounting for IT"/><br>
       <b>Greenhouse Gas Accounting for IT</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 5/3/25</span>
