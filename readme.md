@@ -27,16 +27,17 @@
 
 ### 🏆 Certifications & Achievements
 
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <td align="center" width="180">
-      <img src="./python-essentials-1.1.png" width="90" alt="Python Essentials 1"/><br>
+      <img src="https://raw.githubusercontent.com/mat1520/mat1520/master/python-essentials-1.1.png" width="80" alt="Python Essentials 1"/><br>
       <b>Python Essentials 1</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 11/21/24</span>
     </td>
     <td align="center" width="180">
-      <img src="./introduction-to-greenhouse-gas-accounting-for-it.png" width="90" alt="Greenhouse Gas Accounting for IT"/><br>
+      <img src="https://raw.githubusercontent.com/mat1520/mat1520/master/introduction-to-greenhouse-gas-accounting-for-it.png" width="80" alt="Greenhouse Gas Accounting for IT"/><br>
       <b>Greenhouse Gas Accounting for IT</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 5/3/25</span>
@@ -55,6 +56,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ### 🏅 Certificaciones Digitales
 
