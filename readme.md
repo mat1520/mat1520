@@ -10,12 +10,46 @@
 </p>
 
 <div align="center">
+  <a href="mailto:arielmelo1520@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat1520&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="Top Langs"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat1520&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=000000" alt="GitHub Streak"/>
 </div>
+
+---
+
+### 🏆 Certifications & Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+        <p>In Progress - Expected 2024</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CCNA_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+        <p>In Progress - Expected 2024</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <p>In Progress - Expected 2024</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🏅 Certificaciones Digitales
+
+[![Python Essentials 1](https://images.credly.com/size/340x340/images/0b1e4b7a-8c3a-4c1b-8c3a-4c1b8c3a4c1b/python-essentials-1.png)](https://www.credly.com/badges/b9777a5b-aac1-4e15-a1ca-beeedb397a8d/public_url)
+[![Introduction to Greenhouse Gas Accounting for IT](https://images.credly.com/size/340x340/images/2e2c7c7e-2e2c-4c7e-8c7e-2e2c7c7e2e2c/greenhouse-gas-accounting-it.png)](https://www.credly.com/badges/78c85839-c373-4652-b666-7bafbbbb23db/public_url)
 
 ---
 
@@ -33,6 +67,29 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
   - CTF challenges and hackathons
   - Building custom PCs
   - Exploring new Linux distributions
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔐 SecureNet Scanner</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Security-Tools-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+      <p>Network vulnerability scanner with automated reporting and remediation suggestions.</p>
+      <a href="https://github.com/yourusername/securenet">View Project</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 WebGuard Pro</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <p>Web application firewall with real-time threat detection and mitigation.</p>
+      <a href="https://github.com/yourusername/webguard">View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
