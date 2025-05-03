@@ -27,12 +27,34 @@
 
 ### 🏆 Certifications & Achievements
 
-<div align="center">
-  <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-  <span>In Progress - Expected 2026</span>
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <span>In Progress - Expected 2026</span>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="./python-essentials-1.1.png" width="90" alt="Python Essentials 1"/><br>
+      <b>Python Essentials 1</b><br>
+      <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
+      <span style="font-size:0.95em;">Issued 11/21/24</span>
+    </td>
+    <td align="center" width="180">
+      <img src="./introduction-to-greenhouse-gas-accounting-for-it.png" width="90" alt="Greenhouse Gas Accounting for IT"/><br>
+      <b>Greenhouse Gas Accounting for IT</b><br>
+      <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
+      <span style="font-size:0.95em;">Issued 5/3/25</span>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" width="90" alt="CompTIA Security+"/><br>
+      <b>CompTIA Security+</b><br>
+      <span style="color:#FF0000;font-weight:bold;">In Progress</span><br>
+      <span style="font-size:0.95em;">Expected 2026</span>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" width="90" alt="AWS Certified Cloud Practitioner"/><br>
+      <b>AWS Cloud Practitioner</b><br>
+      <span style="color:#FF9900;font-weight:bold;">In Progress</span><br>
+      <span style="font-size:0.95em;">Expected 2026</span>
+    </td>
+  </tr>
+</table>
 
 ### 🏅 Certificaciones Digitales
 
