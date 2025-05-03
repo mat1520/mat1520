@@ -62,13 +62,6 @@
 
 </div>
 
-### 🏅 Certificaciones Digitales
-
-[![Python Essentials 1](https://images.credly.com/size/340x340/images/0b1e4b7a-8c3a-4c1b-8c3a-4c1b8c3a4c1b/python-essentials-1.png)](https://www.credly.com/badges/b9777a5b-aac1-4e15-a1ca-beeedb397a8d/public_url)
-[![Introduction to Greenhouse Gas Accounting for IT](https://images.credly.com/size/340x340/images/2e2c7c7e-2e2c-4c7e-8c7e-2e2c7c7e2e2c/greenhouse-gas-accounting-it.png)](https://www.credly.com/badges/78c85839-c373-4652-b666-7bafbbbb23db/public_url)
-
----
-
 ### 🎯 About Me
 
 > *"In the world of cybersecurity, every day is a new challenge to solve."*
