@@ -31,16 +31,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-        <p>In Progress - Expected 2024</p>
+        <img src="https://images.credly.com/size/340x340/images/6848b2b7-03c5-4a4a-9b7b-3b8b8b8b8b8b/comptia-security-plus.png" width="120"/>
+        <p>CompTIA Security+<br>In Progress - Expected 2026</p>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/CCNA_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-        <p>In Progress - Expected 2024</p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <p>In Progress - Expected 2024</p>
+        <img src="https://images.credly.com/size/340x340/images/6848b2b7-03c5-4a4a-9b7b-3b8b8b8b8b8b/aws-certified-cloud-practitioner.png" width="120"/>
+        <p>AWS Certified Cloud Practitioner<br>In Progress - Expected 2026</p>
       </td>
     </tr>
   </table>
@@ -82,11 +78,11 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
       <a href="https://github.com/yourusername/securenet">View Project</a>
     </td>
     <td align="center" width="50%">
-      <h3>🌐 WebGuard Pro</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-      <p>Web application firewall with real-time threat detection and mitigation.</p>
-      <a href="https://github.com/yourusername/webguard">View Project</a>
+      <h3>💳 Credit Card Gen Luhn</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Luhn-Algorithm-4F46E5?style=for-the-badge&logoColor=white" />
+      <p>Web application that generates valid credit card numbers using the Luhn algorithm. Designed for educational and testing purposes, helping developers and QA teams simulate card inputs to validate forms, payment systems, or backend processing without using real data.</p>
+      <a href="https://github.com/mat1520/Credit-Cart-Gen-Luhn">View Project</a>
     </td>
   </tr>
 </table>
