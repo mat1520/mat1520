@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td align="center" width="180">
-      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2ac901d8-a935-48c4-b29a-810c9cf1bf8d.png" width="80" alt="Python Essentials 1"/><br>
+      <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/twitter_thumb_201604_image.png" width="80" alt="Python Essentials 1"/><br>
       <b>Python Essentials 1</b><br>
       <span style="color:#FF0000;font-weight:bold;">Cisco</span><br>
       <span style="font-size:0.95em;">Issued 11/21/24</span>
