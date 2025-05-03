@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="mailto:arielmelo1520@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -31,12 +31,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://images.credly.com/size/340x340/images/6848b2b7-03c5-4a4a-9b7b-3b8b8b8b8b8b/comptia-security-plus.png" width="120"/>
-        <p>CompTIA Security+<br>In Progress - Expected 2026</p>
+        <img src="./python-essentials-1.1.png" width="120"/>
+        <p>Python Essentials 1<br>Issued 11/21/24</p>
       </td>
       <td align="center">
-        <img src="https://images.credly.com/size/340x340/images/6848b2b7-03c5-4a4a-9b7b-3b8b8b8b8b8b/aws-certified-cloud-practitioner.png" width="120"/>
-        <p>AWS Certified Cloud Practitioner<br>In Progress - Expected 2026</p>
+        <img src="./introduction-to-greenhouse-gas-accounting-for-it.png" width="120"/>
+        <p>Introduction to Greenhouse Gas Accounting for IT<br>Issued 5/3/25</p>
       </td>
     </tr>
   </table>
@@ -71,11 +71,11 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🔐 SecureNet Scanner</h3>
+      <h3>🔒 Local Network Security Scanner</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Security-Tools-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-      <p>Network vulnerability scanner with automated reporting and remediation suggestions.</p>
-      <a href="https://github.com/yourusername/securenet">View Project</a>
+      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+      <p>A comprehensive network security scanning toolkit designed for local network assessment and vulnerability detection. This project leverages advanced network scanning techniques using Nmap to identify connected devices, analyze open ports, and evaluate potential security risks in IoT environments.</p>
+      <a href="https://github.com/mat1520/local-network-security-scanner">View Project</a>
     </td>
     <td align="center" width="50%">
       <h3>💳 Credit Card Gen Luhn</h3>
