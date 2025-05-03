@@ -28,18 +28,10 @@
 ### 🏆 Certifications & Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./python-essentials-1.1.png" width="120"/>
-        <p>Python Essentials 1<br>Issued 11/21/24</p>
-      </td>
-      <td align="center">
-        <img src="./introduction-to-greenhouse-gas-accounting-for-it.png" width="120"/>
-        <p>Introduction to Greenhouse Gas Accounting for IT<br>Issued 5/3/25</p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+  <span>In Progress - Expected 2026</span>
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <span>In Progress - Expected 2026</span>
 </div>
 
 ### 🏅 Certificaciones Digitales
