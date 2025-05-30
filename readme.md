@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=100&lines=Matias;Systems+Engineering+Student;Cybersecurity+Enthusiast;Web+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=100&lines=Welcome!;Systems+Engineering+Student;Cybersecurity+Enthusiast;Web+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -131,7 +131,7 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
 
 ---
 
-### �� Featured Projects
+###  Featured Projects
 
 <table>
   <tr>
