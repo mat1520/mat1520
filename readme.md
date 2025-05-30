@@ -375,7 +375,7 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
 
 ---
 
-## 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://github.com/mat1520/mat1520/blob/output/github-contribution-grid-snake-dark.svg)
 
