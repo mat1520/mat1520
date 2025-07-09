@@ -1,40 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=100&lines=Welcome!;Systems+Engineering+Student;Cybersecurity+Enthusiast;Web+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://cardivo.vercel.app/api?name=Ariel%20Matias%20Melo&description=Systems%20Engineering%20Student%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Web%20Developer%20%7C%20Always%20Learning%20New%20Tech&image=https://github.com/mat1520.png&backgroundColor=%23000000&iconColor=%23FF0000&fontColor=%23FFFFFF&pattern=topography&colorPattern=%23FF0000&opacity=0.1&github=mat1520&instagram=&linkedin=&twitter=" alt="Ariel Matias Melo Card" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/mat1520?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=mat1520&color=FF0000&style=flat-square" alt="Profile Views"/>
 </p>
 
 <div align="center">
-  <a href="https://t.me/MAT3810">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000&border_color=FF0000&hide_border=false&hide_rank=true" alt="GitHub Stats" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat1520&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🎯 Sobre Mí
 
-> *"En el mundo de la ciberseguridad, cada día es un nuevo desafío por resolver."*
+> *"Siempre investigando nuevas tecnologías para mejorar mis habilidades tecnológicas."*
 
-Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del Ecuador (UIDE)** con una pasión por la ciberseguridad y el desarrollo web. Mi trayectoria en tecnología está impulsada por la curiosidad y el deseo de hacer el mundo digital más seguro.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🔭-Estudiando_Ciberseguridad-FF0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌱-Desarrollo_Web_Frontend-FF0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/💡-Apasionado_por_la_Tecnología-FF0000?style=for-the-badge&logoColor=white" />
-</div>
-
-#### 🎮 Cuando no estoy programando, disfruto de:
-- 🎯 Gaming (especialmente estrategia y FPS)
-- 🏆 Desafíos CTF y hackathons
-- 🖥️ Construyendo PCs personalizadas
-- 🐧 Explorando nuevas distribuciones Linux
-- 📚 Leyendo sobre las últimas amenazas cibernéticas
+Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del Ecuador (UIDE)** con una pasión por la ciberseguridad y el desarrollo web. Mi objetivo profesional es convertirme en un especialista en ciberseguridad, enfocándome en el pentesting y la protección de infraestructuras críticas. Busco constantemente oportunidades para aplicar mis conocimientos en proyectos reales y contribuir a hacer el mundo digital más seguro.
 
 ---
 
@@ -70,10 +57,6 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <i>Formación enfocada en seguridad informática, desarrollo de sistemas y redes</i>
-</div>
 
 ---
 
@@ -138,22 +121,22 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
       <br/>
       <img src="https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logo=linux&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Tcpdump-FF4500?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tcpdump-FF4500?style=for-the-badge&logo=linux&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <h3>� Testing de Penetración</h3>
+      <h3>🔒 Testing de Penetración</h3>
       <img src="https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/John_the_Ripper-800080?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/John_the_Ripper-800080?style=for-the-badge&logo=linux&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Hashcat-DC143C?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hashcat-DC143C?style=for-the-badge&logo=linux&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <h3>� Sistemas y Frameworks</h3>
+      <h3>🖥️ Sistemas y Frameworks</h3>
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/OWASP-FF0000?style=for-the-badge&logo=owasp&logoColor=white" />
@@ -166,7 +149,6 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
 </table>
 
 ---
-
 
 
 ### 🚀 Proyectos Destacados
@@ -213,11 +195,6 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
   <a href="https://t.me/MAT3810">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mat1520&color=FF0000&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mat1520?style=for-the-badge&color=FF0000&labelColor=000000" alt="Followers"/>
 </div>
 
 ---
