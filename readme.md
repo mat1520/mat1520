@@ -10,35 +10,31 @@
 </p>
 
 <div align="center">
-  <a href="mailto:arielmelo1520@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://t.me/MAT3810">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat1520&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="Top Langs"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat1520&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&background=000000" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 🎯 About Me
+### 🎯 Sobre Mí
 
-> *"In the world of cybersecurity, every day is a new challenge to solve."*
+> *"En el mundo de la ciberseguridad, cada día es un nuevo desafío por resolver."*
 
-I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UIDE)** with a passion for cybersecurity and web development. My journey in tech is driven by curiosity and the desire to make the digital world more secure.
+Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del Ecuador (UIDE)** con una pasión por la ciberseguridad y el desarrollo web. Mi trayectoria en tecnología está impulsada por la curiosidad y el deseo de hacer el mundo digital más seguro.
 
-- 🔭 Currently exploring **network security** and **ethical hacking**
-- 🌱 Learning **cloud security** and **advanced penetration testing**
-- 💡 Interested in **blockchain security** and **AI/ML in cybersecurity**
-- 🎮 When not coding, I enjoy:
-  - Gaming (especially strategy and FPS games)
-  - CTF challenges and hackathons
-  - Building custom PCs
-  - Exploring new Linux distributions
+<div align="center">
+  <img src="https://img.shields.io/badge/🔭-Estudiando_Ciberseguridad-FF0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌱-Desarrollo_Web_Frontend-FF0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡-Apasionado_por_la_Tecnología-FF0000?style=for-the-badge&logoColor=white" />
+</div>
+
+#### 🎮 Cuando no estoy programando, disfruto de:
+- 🎯 Gaming (especialmente estrategia y FPS)
+- 🏆 Desafíos CTF y hackathons
+- 🖥️ Construyendo PCs personalizadas
+- 🐧 Explorando nuevas distribuciones Linux
+- 📚 Leyendo sobre las últimas amenazas cibernéticas
 
 ---
 
@@ -81,17 +77,18 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
 
 ---
 
-### 💻 Languages & Frameworks
+### 💻 Lenguajes y Tecnologías
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Programming-Languages-FF0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-Development-FF0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desarrollo-Web-FF0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programación-Backend-FF0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ciberseguridad-Tools-FF0000?style=for-the-badge&logoColor=white" />
 </div>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🌐 Web Development</h3>
+      <h3>🌐 Desarrollo Web</h3>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -101,7 +98,7 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <h3>⚡ Programming</h3>
+      <h3>⚡ Programación</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -111,78 +108,90 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
       <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <h3>🚀 Frameworks & Tools</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <br/>
+      <h3>🚀 Herramientas</h3>
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛡️ Cybersecurity Focus
+### 🛡️ Enfoque en Ciberseguridad
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Security-Tools-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pentesting-Expert-FF0000?style=for-the-badge&logo=pentest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-Security-FF0000?style=for-the-badge&logo=network&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical-Hacking-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration-Testing-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Security-FF0000?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🔍 Network Analysis</h3>
+      <h3>🔍 Análisis de Red</h3>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white" />
       <br/>
+      <img src="https://img.shields.io/badge/Netcat-4B0082?style=for-the-badge&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Tcpdump-FF4500?style=for-the-badge&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <h3>� Testing de Penetración</h3>
       <img src="https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/John_the_Ripper-800080?style=for-the-badge&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Hashcat-DC143C?style=for-the-badge&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <h3>🔑 Password Analysis</h3>
-      <img src="https://img.shields.io/badge/John_the_Ripper-FF0000?style=for-the-badge&logo=john&logoColor=white" />
+      <h3>� Sistemas y Frameworks</h3>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Hashcat-FF0000?style=for-the-badge&logo=hashcat&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hydra&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🛡️ Security Frameworks</h3>
       <img src="https://img.shields.io/badge/OWASP-FF0000?style=for-the-badge&logo=owasp&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/CVE-FF0000?style=for-the-badge&logo=cve&logoColor=white" />
+      <img src="https://img.shields.io/badge/Parrot_OS-00CED1?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects
+
+
+### 🚀 Proyectos Destacados
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🔒 Local Network Security Scanner</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-      <p>A comprehensive network security scanning toolkit designed for local network assessment and vulnerability detection. This project leverages advanced network scanning techniques using Nmap to identify connected devices, analyze open ports, and evaluate potential security risks in IoT environments.</p>
-      <a href="https://github.com/mat1520/local-network-security-scanner">View Project</a>
+      <h3>🌟 Star Wars Character Detector</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Computer_Vision-00D4FF?style=for-the-badge&logo=opencv&logoColor=white" />
+      <p>Un proyecto innovador que utiliza inteligencia artificial y visión por computadora para detectar y clasificar personajes de Star Wars en imágenes. Implementa algoritmos de machine learning para reconocimiento facial y clasificación de personajes icónicos de la saga.</p>
+      <a href="https://github.com/mat1520/Star-Wars-Character-Detector">
+        <img src="https://img.shields.io/badge/View_Project-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td align="center" width="50%">
-      <h3>💳 Credit Card Gen Luhn</h3>
+      <h3>💳 Credit Card Generator Luhn</h3>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Luhn-Algorithm-4F46E5?style=for-the-badge&logoColor=white" />
-      <p>Web application that generates valid credit card numbers using the Luhn algorithm. Designed for educational and testing purposes, helping developers and QA teams simulate card inputs to validate forms, payment systems, or backend processing without using real data.</p>
-      <a href="https://github.com/mat1520/Credit-Cart-Gen-Luhn">View Project</a>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Algorithm-4F46E5?style=for-the-badge&logoColor=white" />
+      <p>Aplicación web educativa que genera números de tarjetas de crédito válidos utilizando el algoritmo de Luhn. Diseñada para desarrolladores y equipos de QA que necesitan datos de prueba para validar formularios y sistemas de pago sin usar información real.</p>
+      <a href="https://github.com/mat1520/Credit-Card-Gen-Luhn">
+        <img src="https://img.shields.io/badge/View_Project-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
@@ -192,6 +201,24 @@ I'm a Systems Engineering student at **Universidad Internacional del Ecuador (UI
 ### 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://github.com/mat1520/mat1520/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🤝 Conecta Conmigo
+
+<div align="center">
+  <a href="https://github.com/mat1520">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/MAT3810">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mat1520&color=FF0000&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mat1520?style=for-the-badge&color=FF0000&labelColor=000000" alt="Followers"/>
+</div>
 
 ---
 
