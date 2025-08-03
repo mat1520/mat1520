@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?name=Ariel%20Matias%20Melo&description=Systems%20Engineering%20Student%20%7C%20Cybersecurity%20  <img src="https://img.shields.io/badge/Estado-Cursando-228B22?style=for-the-badge&logoColor=white" />
-  
-  ### 🏆 Certificaciones Credly
-
-  
-  <a href="https://www.credly.com/users/ariel-melo.b7336c91">iast%20%7C%20Web%20Developer%20%7C%20Always%20Learning%20New%20Tech&image=https://github.com/mat1520.png&backgroundColor=%23000000&iconColor=%23FF0000&fontColor=%23FFFFFF&pattern=topography&colorPattern=%23FF0000&opacity=0.1&github=mat1520&instagram=&linkedin=&twitter=" alt="Ariel Matias Melo Card" />
+  <img src="https://cardivo.vercel.app/api?name=Ariel%20Matias%20Melo&description=Systems%20Engineering%20Student%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Web%20Developer%20%7C%20Always%20Learning%20New%20Tech&image=https://github.com/mat1520.png&backgroundColor=%23000000&iconColor=%23FF0000&fontColor=%23FFFFFF&pattern=topography&colorPattern=%23FF0000&opacity=0.1&github=mat1520&instagram=&linkedin=&twitter=" alt="Ariel Matias Melo Card" />
 </div>
 
 <p align="center">
@@ -165,9 +160,9 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
   <br/><br/>
   <img src="https://img.shields.io/badge/Estado-Cursando-228B22?style=for-the-badge&logoColor=white" />
   
-  ### � Certificaciones Credly
+  <br/><br/>
+  ### 🤖 Certificaciones
 
-  
   <a href="https://www.credly.com/users/ariel-melo.b7336c91">
     <img src="https://img.shields.io/badge/Ver_Perfil_Credly-FF0000?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
   </a>
