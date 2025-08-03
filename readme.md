@@ -129,17 +129,17 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
     <tr>
       <td align="center">
         <div style="border: 2px solid #FF0000; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); width: 80%;">
-          <h3>🎵 Spotify Clone con Sistema de Pagos</h3>
-          <p><em>Streaming de Música • Payment Gateway • Subscripciones Premium</em></p>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <h3>📖 Learning Git</h3>
+          <p><em>Guía Completa • Control de Versiones • OAuth Google</em></p>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
           <br/><br/>
-          <a href="https://github.com/mat1520/spotify-clone-pay-managment">
+          <a href="https://github.com/mat1520/Learning-Git">
             <img src="https://img.shields.io/badge/💻_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://spotifyec.vercel.app">
+          <a href="https://learning-git-mat1520.vercel.app">
             <img src="https://img.shields.io/badge/🌐_Live_Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </div>
@@ -160,31 +160,6 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
   <br/><br/>
   <img src="https://img.shields.io/badge/Estado-Cursando-228B22?style=for-the-badge&logoColor=white" />
 </div>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 Fundamentos Técnicos</h3>
-      <img src="https://img.shields.io/badge/Lógica_de_Programación-FF0000?style=for-the-badge&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Arquitectura_de_Computadoras-FF0000?style=for-the-badge&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Sistemas_Operativos-FF0000?style=for-the-badge&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/UNIX_Systems-FF0000?style=for-the-badge&logoColor=white" />
-    </td>
-    <td align="center" width="50%">
-      <h3>🔧 Especialización</h3>
-      <img src="https://img.shields.io/badge/Programación_Estructurada-FF0000?style=for-the-badge&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Redes_de_Datos-FF0000?style=for-the-badge&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Bases_de_Datos-FF0000?style=for-the-badge&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/Sistemas_Tecnológicos-FF0000?style=for-the-badge&logoColor=white" />
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <br/>
