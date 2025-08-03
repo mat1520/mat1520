@@ -30,7 +30,7 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
 <div align="center">
   <h4><em>Tecnologías que domino y utilizo en mis proyectos</em></h4>
   
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nextjs,nodejs,php,bash,git,github,linux,vscode,idea,docker,tensorflow,postgres,sqlite,mysql,supabase,firebase,vercel,tailwind,express,kali,wireshark&theme=dark" alt="Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,html,css,react,nextjs,nodejs,git,github,linux,vscode,docker,postgres,mysql,kali,wireshark&theme=dark" alt="Technical Skills" />
   
 </div>
 
