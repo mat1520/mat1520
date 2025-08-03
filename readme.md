@@ -159,21 +159,18 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
   <img src="https://img.shields.io/badge/Ingeniería_en_Sistemas-000000?style=for-the-badge&logoColor=white" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Estado-Cursando-228B22?style=for-the-badge&logoColor=white" />
-</div>
+  
+  ### � Certificaciones Credly
 
-<div align="center">
-  <br/>
-  <h4>🎯 Metas Personales</h4>
-  <img src="https://img.shields.io/badge/Ayudar_con_Proyectos_Cotidianos-4169E1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Soluciones_Tecnológicas_Prácticas-4169E1?style=for-the-badge&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Aplicar_Habilidades_en_Proyectos_Reales-228B22?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contribuir_a_la_Comunidad-228B22?style=for-the-badge&logoColor=white" />
+  
+  <a href="https://www.credly.com/users/ariel-melo.b7336c91">
+    <img src="https://img.shields.io/badge/Ver_Perfil_Credly-FF0000?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
+  </a>
 </div>
 
 ---
 
-###  GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://github.com/mat1520/mat1520/blob/output/github-contribution-grid-snake-dark.svg)
 
