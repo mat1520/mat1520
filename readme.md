@@ -72,7 +72,7 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
             <img src="https://img.shields.io/badge/💻_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br/>
-          <a href="https://yachay-79sgtq3x4-mat1520s-projects.vercel.app">
+          <a href="https://yachay-app.vercel.app/">
             <img src="https://img.shields.io/badge/🌐_Live_Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </div>
@@ -136,7 +136,7 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
           <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
           <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
           <br/><br/>
-          <a href="https://github.com/mat1520/Learning-Git">
+          <a href="https://learning-git-hazel.vercel.app">
             <img src="https://img.shields.io/badge/💻_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <a href="https://learning-git-mat1520.vercel.app">
