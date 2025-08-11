@@ -139,7 +139,7 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
           <a href="https://learning-git-hazel.vercel.app">
             <img src="https://img.shields.io/badge/💻_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <a href="https://learning-git-mat1520.vercel.app">
+          <a href="https://learning-git-hazel.vercel.app">
             <img src="https://img.shields.io/badge/🌐_Live_Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </div>
