@@ -4,9 +4,7 @@
   <img alt="GitHub stats for mat1520 (sin avatar)" src="https://pixel-profile.vercel.app/api/github-stats?username=mat1520&screen_effect=true&avatar=false=linear-gradient(to%20bottom%20right%2C%20%23000000%2C%20%23ff0000)&text_color=FFFFFF&title_color=ff0000" loading="lazy" style="max-width:100%;border-radius:8px;border:2px solid #ff0000;">
 </picture>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mat1520&color=FF0000&style=flat-square" alt="Profile Views"/>
-</p>
+
 
 
 ### 🎯 Sobre Mí
@@ -31,7 +29,11 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
 ### 🚀 Proyectos Destacados en Producción
 
 <div align="center">
-  
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mat1520&color=FF0000&style=flat-square" alt="Profile Views" style="width:150px;max-width:100%;height:auto;" />
+</p>
+
+
   <!-- Primera fila de proyectos -->
   <table>
     <tr>
@@ -89,7 +91,7 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
             <img src="https://img.shields.io/badge/💻_Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <br/>
-          <a href="https://buro-de-credito-9u6v6j19x-buro-ec.vercel.app">
+          <a href="https://buro.vercel.app/">
             <img src="https://img.shields.io/badge/🌐_Live_Demo-FF0000?style=for-the-badge&logo=vercel&logoColor=white" />
           </a>
         </div>
@@ -152,7 +154,7 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
   <br/><br/>
   <img src="https://img.shields.io/badge/Estado-Cursando-228B22?style=for-the-badge&logoColor=white" />
   
-  <br/><br/>
+  
   ### 🤖 Certificaciones
 
   <a href="https://www.credly.com/users/ariel-melo.b7336c91">
