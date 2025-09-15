@@ -1,21 +1,13 @@
-<div align="center">
-  <img src="https://cardivo.vercel.app/api?name=Ariel%20Matias%20Melo&description=Systems%20Engineering%20Student%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Web%20Developer%20%7C%20Always%20Learning%20New%20Tech&image=https://github.com/mat1520.png&backgroundColor=%23000000&iconColor=%23FF0000&fontColor=%23FFFFFF&pattern=topography&colorPattern=%23FF0000&opacity=0.1&github=mat1520&instagram=&linkedin=&twitter=" alt="Ariel Matias Melo Card" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mat1520&color=FF0000&style=flat-square" alt="Profile Views"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000&border_color=FF0000&hide_border=false&hide_rank=true" alt="GitHub Stats" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=mat1520&screen_effect=true&avatar=false&background=linear-gradient(to%20bottom%20right%2C%20%23000000%2C%20%23ff0000)&text_color=FFFFFF&title_color=ff0000">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=mat1520&screen_effect=false&avatar=false&background=linear-gradient(to%20bottom%20right%2C%20%23ff0000%2C%20%23000000)&text_color=000000&title_color=ff0000">
+  <img alt="GitHub stats for mat1520 (sin avatar)" src="https://pixel-profile.vercel.app/api/github-stats?username=mat1520&screen_effect=true&avatar=false=linear-gradient(to%20bottom%20right%2C%20%23000000%2C%20%23ff0000)&text_color=FFFFFF&title_color=ff0000" loading="lazy" style="max-width:100%;border-radius:8px;border:2px solid #ff0000;">
+</picture>
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mat1520&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🎯 Sobre Mí
 
@@ -228,3 +220,4 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
 </div>
+
