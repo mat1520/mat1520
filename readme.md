@@ -4,9 +4,6 @@
   <img alt="GitHub stats for mat1520 (sin avatar)" src="https://pixel-profile.vercel.app/api/github-stats?username=mat1520&screen_effect=true&avatar=false=linear-gradient(to%20bottom%20right%2C%20%23000000%2C%20%23ff0000)&text_color=FFFFFF&title_color=ff0000" loading="lazy" style="max-width:100%;border-radius:8px;border:2px solid #ff0000;">
 </picture>
 
-
-
-
 ### 🎯 Sobre Mí
 
 > *"Siempre investigando nuevas tecnologías para mejorar mis habilidades tecnológicas."*
