@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mat1520&color=FF0000&style=flat-square" alt="Profile Views"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=mat1520&screen_effect=true&avatar=false&background=linear-gradient(to%20bottom%20right%2C%20%23000000%2C%20%23ff0000)&text_color=FFFFFF&title_color=ff0000">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=mat1520&screen_effect=false&avatar=false&background=linear-gradient(to%20bottom%20right%2C%20%23ff0000%2C%20%23000000)&text_color=000000&title_color=ff0000">
   <img alt="GitHub stats for mat1520 (sin avatar)" src="https://pixel-profile.vercel.app/api/github-stats?username=mat1520&screen_effect=true&avatar=false=linear-gradient(to%20bottom%20right%2C%20%23000000%2C%20%23ff0000)&text_color=FFFFFF&title_color=ff0000" loading="lazy" style="max-width:100%;border-radius:8px;border:2px solid #ff0000;">
 </picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mat1520&color=FF0000&style=flat-square" alt="Profile Views"/>
+</p>
 
 
 ### 🎯 Sobre Mí
