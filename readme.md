@@ -12,15 +12,6 @@ Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del 
 
 ---
 
-### ⚡ Stack Tecnológico & Herramientas
-
-<div align="center">
-  <h4><em>Tecnologías que domino y utilizo en mis proyectos</em></h4>
-  
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,html,css,react,nextjs,nodejs,git,github,linux,vscode,docker,postgres,mysql,kali,wireshark&theme=dark" alt="Technical Skills" />
-  
-</div>
-
 ---
 
 ### 🚀 Proyectos Destacados en Producción
