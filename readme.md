@@ -11,9 +11,6 @@
 Soy estudiante de Ingeniería en Sistemas en la **Universidad Internacional del Ecuador (UIDE)** con una pasión por la ciberseguridad y el desarrollo web. Mi objetivo profesional es convertirme en un especialista en ciberseguridad, enfocándome en el pentesting y la protección de infraestructuras críticas. Busco constantemente oportunidades para aplicar mis conocimientos en proyectos reales y contribuir a hacer el mundo digital más seguro.
 
 ---
-
----
-
 ### 🚀 Proyectos Destacados en Producción
 
 <div align="center">
