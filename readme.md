@@ -52,8 +52,9 @@
 <h2 align="center">My stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=shadow_red&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=shadow_red&count_private=true&hide_border=false&rank_icon=github&bg_color=1e1e1e" alt="GitHub Stats" />
 </div>
+
 
 <div align="center">
 
