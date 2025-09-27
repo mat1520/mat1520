@@ -53,8 +53,7 @@
 
 ![Estadísticas de GitHub de mat1520](https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=shadow_red&count_private=true&hide_border=true&rank_icon=github)
 
-
-
+<div align="center">
 
 ### 🚀 Featured Projects in Production
 
@@ -164,7 +163,7 @@
     </td>
   </tr>
 </table>
-  
+
 </div>
 
 ---
