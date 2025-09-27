@@ -49,9 +49,11 @@
 
 ###
 
-<h2 align="left">My stats</h2>
+<h2 align="center">My stats</h2>
 
-![Estadísticas de GitHub de mat1520](https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=shadow_red&count_private=true&hide_border=true&rank_icon=github)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=shadow_red&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
