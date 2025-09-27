@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="center">My stats</h2>
+<h2 align="left">My stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=shadow_red&count_private=true&hide_border=false&rank_icon=github&bg_color=2b2b2b&text_color=ffffff" alt="GitHub Stats" />
@@ -173,7 +173,7 @@
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-<p align="left">
+<p align="center">
   <a href="https://api.whatsapp.com/send?phone=593984403461&text=Hi%20Ariel,%20I%20saw%20your%20GitHub%20profile!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="WhatsApp" />
   </a>
@@ -186,17 +186,6 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-### 🐍 GitHub Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mat1520/mat1520/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mat1520/mat1520/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mat1520/mat1520/output/pacman-contribution-graph.svg">
-</picture>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
