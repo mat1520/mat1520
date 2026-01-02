@@ -4,7 +4,7 @@
 - ✨ Creating bugs since 2021
 - 🎓 Studying Computer Systems Engineering at UIDE.
 - 🛡️ Focused on **Ethical Hacking** and **Web Security**.
-- 🎯 2025 Goals: Contribute to a real-world cybersecurity project.
+- 🎯 2026 Goals: Intern or work in the cybersecurity industry.
 - 🎲 Fun fact: My favorite compiler is a good cup of coffee.
 
 ---
