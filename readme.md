@@ -56,16 +56,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mat1520&theme=github_dark" alt="GitHub Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mat1520&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mat1520&theme=github_dark" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mat1520&bg_color=2b2b2b&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=mat1520&style=for-the-badge&color=ff0000&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <div align="center">
