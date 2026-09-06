@@ -52,11 +52,11 @@
 <h2 align="left">My stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mat1520&theme=dark&hide_border=false&background=2B2B2B&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=mat1520&style=for-the-badge&color=ff0000&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mat1520&style=for-the-badge&color=ff0000&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=mat1520&theme=dark&hide_border=false&background=2B2B2B&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
