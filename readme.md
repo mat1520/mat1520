@@ -52,7 +52,20 @@
 <h2 align="left">My stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mat1520&show_icons=true&theme=shadow_red&count_private=true&hide_border=false&rank_icon=github&bg_color=2b2b2b&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mat1520&theme=dark&hide_border=false&background=2B2B2B&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mat1520&theme=github_dark" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mat1520&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mat1520&theme=github_dark" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mat1520&bg_color=2b2b2b&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
@@ -190,4 +203,3 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
 </div>
-
