@@ -177,11 +177,6 @@
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-<p align="center">
-  <a href="https://api.whatsapp.com/send?phone=593984403461&text=Hi%20Ariel,%20I%20saw%20your%20GitHub%20profile!" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="WhatsApp" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://t.me/MAT3810" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="40" alt="Telegram" />
   </a>
